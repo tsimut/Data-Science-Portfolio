@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 
 A repository of projects which showcase example business problems I have solved using data broken down by industry.
 
